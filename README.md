@@ -86,6 +86,9 @@ pip install pandas seaborn matplotlib statsmodels tensorflow scikit-learn
 [![Report PDF](https://img.shields.io/badge/Report-PDF-red?logo=adobeacrobatreader)](https://github.com/Oussama-Ouarezki/Timeseries_co2/blob/main/Projet_data_mining-10.pdf)
 [![📄 Full Report](https://img.shields.io/badge/Full%20Report-PDF-1E90FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Oussama-Ouarezki/Timeseries_co2/blob/main/Projet_data_mining-10.pdf)
 [📄 Full Report](https://github.com/Oussama-Ouarezki/Timeseries_co2/blob/main/Projet_data_mining-10.pdf)
+
+
+[Full Documentation](https://github.com/Oussama-Ouarezki/Timeseries_co2/blob/main/Projet_data_mining-10.pdf)
 ---
 
 ## Conclusion
